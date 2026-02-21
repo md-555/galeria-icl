@@ -18,7 +18,7 @@ export default function Footer(): React.ReactElement {
         <p className="textBase mb-5 leading-relaxed text-[var(--text-secondary)]">
           Feito por{" "}
           <Link
-            href="https://github.com/icl"
+            href="https://github.com/mg-5.5.5-37"
             target="_blank"
             rel="noopener noreferrer"
             className="linkAccent"
@@ -29,7 +29,7 @@ export default function Footer(): React.ReactElement {
 
         <div className="mb-6 flex flex-wrap items-center justify-center gap-2.5">
           <Button
-            href="https://github.com/icl"
+            href="https://github.com/mg-5.5.5-37"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Repositório GitHub"
